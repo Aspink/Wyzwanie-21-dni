@@ -6,7 +6,7 @@ namespace ChallengeApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Polubisz programowanie w C#!");
         }
     }
 }
